@@ -1,5 +1,9 @@
 # python-aws-lambda
-Dockerfile for test and deploy your lambda code in a real aws linux environment
+Dockerfile for test and deploy your lambda code in a real aws linux environment.
+
+Alternative option for custom python dependencies like a crypto
+
+[See the official aws options](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
 
 ## Usage
 First step build the docker image
